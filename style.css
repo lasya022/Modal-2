@@ -1,0 +1,57 @@
+.modal-title{
+    width: 371px;
+height: 22px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.dummy-content-modal{
+    width: 470px;
+height: 16px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+
+color: rgba(0, 0, 0, 0.6);
+
+}
+.No-btn{
+    width: 154px;
+height: 41px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+background: #0F1113;
+border-radius: 4px;
+}
+.Yes-btn{
+    width: 154px;
+height: 41px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+background: #0F1113;
+border-radius: 4px;
+}
